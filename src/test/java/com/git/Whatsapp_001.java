@@ -17,4 +17,13 @@ public class Whatsapp_001 {
 		System.out.println("4");
 		
 	}
+	private void w1() {
+		System.out.println("fdf");
+	}
+	private void w2() {
+		System.out.println("re");
+	}
+	private void w3() {
+		System.out.println("sd");
+	}
 }
